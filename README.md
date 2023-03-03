@@ -1,7 +1,7 @@
 # Fógra
 
-fógra, m. (gs. ~, pl. ~í).
-1 = FÓGAIRT. 2. Notice. (a)~ a thabhairt (go), to give notice (that).
+fógra, m. (gs. \~, pl. \~í).
+1.FÓGAIRT 2. Notice. (a)\~ a thabhairt (go), to give notice (that).
 
 ### Alerts for CRM Analytics Dataflow and Recipe Failures
 
