@@ -17,7 +17,7 @@ Analytics about analytics! Stores the data retrieved from the dataflow job resou
 - Execute [anonymous apex](https://help.salesforce.com/s/articleView?id=sf.code_dev_console_execute_anonymous.htm&type=5), for example, to schedule the monitor to run every 30 minutes:
 ```
 String schedule = '0 30 * * * ?';//every 30 mins
-System.Schedule('PatchReplicatedDataset',schedule,new AnalyticsMonitor());
+System.Schedule('FetchDataflowJobDetails',schedule,new AnalyticsMonitor());
 ```
 - Navigate to the Dataflow Job History folder under the Dashboards tab
 - Review the Dataflow Job Failure object under Setup - Integration - Platform Events
