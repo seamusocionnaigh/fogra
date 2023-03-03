@@ -1,7 +1,7 @@
 public class AnalyticsMonitor implements Schedulable{
 
     //String schedule = '0 30 * * * ?';//every 30 mins
-    //System.Schedule('PatchReplicatedDataset',schedule,new AnalyticsMonitor());
+    //System.Schedule('FetchDataflowJobDetails',schedule,new AnalyticsMonitor());
 
     public static void execute(SchedulableContext SC){
         AnalyticsMonitor.getJobs();
