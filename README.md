@@ -3,6 +3,11 @@
 fógra, m. (gs. \~, pl. \~í).
 1.FÓGAIRT 2. Notice. (a)\~ a thabhairt (go), to give notice (that).
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ### Alerts for CRM Analytics Dataflow and Recipe Failures
 
 Use [scheduled Apex](https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_interface_system_schedulable.htm) to query the CRM Analytics [dataflow job resources](https://developer.salesforce.com/docs/atlas.en-us.bi_dev_guide_rest.meta/bi_dev_guide_rest/bi_resources_dataflowjobs.htm) REST resource, and create a [platform event](https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/platform_events_intro.htm). 
