@@ -3,7 +3,7 @@
 fógra, m. (gs. \~, pl. \~í).
 1.FÓGAIRT 2. Notice. (a)\~ a thabhairt (go), to give notice (that).
 
-<a href="https://githubsfdeploy.herokuapp.com">
+<a href="https://githubsfdeploy.herokuapp.com?owner=seamusocionnaigh&amp;repo=fogra">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
